@@ -1,0 +1,10 @@
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\bin\Debug\WindowsFormTic_Tac_Toe_Game.exe.config
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\bin\Debug\WindowsFormTic_Tac_Toe_Game.exe
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\bin\Debug\WindowsFormTic_Tac_Toe_Game.pdb
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\obj\Debug\WindowsFormTic_Tac_Toe_Game.csproj.AssemblyReference.cache
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\obj\Debug\WindowsFormTic_Tac_Toe_Game.Form1.resources
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\obj\Debug\WindowsFormTic_Tac_Toe_Game.Properties.Resources.resources
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\obj\Debug\WindowsFormTic_Tac_Toe_Game.csproj.GenerateResource.cache
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\obj\Debug\WindowsFormTic_Tac_Toe_Game.csproj.CoreCompileInputs.cache
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\obj\Debug\WindowsFormTic_Tac_Toe_Game.exe
+D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\obj\Debug\WindowsFormTic_Tac_Toe_Game.pdb
