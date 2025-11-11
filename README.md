@@ -1,3 +1,1 @@
-<p align="center">
-  <img src=""D:\Programming\C# Foundemantals\C# level1\WindowsFormTic_Tac_Toe_Game\tic-tac-toc.png"" width="350" title="hover text">
-</p>
+<img src="https://i.ibb.co/2GK3yVP/tic-tac-toc.png" alt="tic-tac-toc" border="0">
